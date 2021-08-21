@@ -8,7 +8,7 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
 ---
 ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc.jpg?raw=true)
 ***
-
+***
 ## ENERGIAS ALTERNATIVAS
 
 Las energías renovables son fuentes de energía limpias, inagotables y crecientemente competitivas. Se diferencian de los combustibles fósiles principalmente en su diversidad, abundancia y potencial de aprovechamiento en  cualquier parte del planeta, pero sobre todo en que no producen gases de efecto invernadero –causantes del cambio climático- ni emisiones contaminantes.
