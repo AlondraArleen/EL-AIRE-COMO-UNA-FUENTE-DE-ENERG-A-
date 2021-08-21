@@ -20,7 +20,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 ### *TIPOS DE ENERGÍAS ALTERNATIVAS*
 
 - Energía solar
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-gratis%2Fdiagrama-que-muestra-luz-solar-energia-solar_5837813.htm&psig=AOvVaw1KC4U-nhpWiurjrJ2CFsoG&ust=1629662350917000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICu2cDzwvICFQAAAAAdAAAAABAD)
+![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc1.jpg?raw=true)
 
 
 
