@@ -31,9 +31,18 @@ Por siglos, el viento ha sido capturado por velas y aspas para transporte y trab
 ![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
 
 - Energía geotérmica
+La energía geotérmica es una energía renovable que aprovecha el fenómeno de que la Tierra irradia calor desde su centro
+
+
 - Energía de la biomasa
+También conocida como bioenergía, es la energía obtenida de la materia orgánica constitutiva de los seres vivos, sus excretas y sus restos no vivos. La biomasa se caracteriza por tener un bajo contenido de carbono, un elevado contenido de oxígeno y compuestos volátiles
+
 - Energía hidráulica
-- Energía de los océanos
+La energía hidráulica, también conocida como energía hidroeléctrica, es aquella energía alternativa que se obtiene del aprovechamiento de las energías cinéticas y potenciales de la corriente del agua, saltos de agua o mareas, ya sea mediante molinos o presas
+
+- **mareomotriz**
+
+también llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
 
 ## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EOLICA)
