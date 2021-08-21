@@ -19,13 +19,17 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
 ### *TIPOS DE ENERGÍAS ALTERNATIVAS*
 
-- **Energía solar**
+- **ENERGÍA SOLAR** 
+
     La energía solar fotovoltaica es una fuente de energía renovable que se obtiene directamente de la radiación solar mediante un panel solar que a su vez la transforma en energía eléctrica.
     
 ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc2.gif?raw=true)
-
-- Energía eólica
+ 
+- **ENERGÍA EOLICA**  
 Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
+
+![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
+
 - Energía geotérmica
 - Energía de la biomasa
 - Energía hidráulica
