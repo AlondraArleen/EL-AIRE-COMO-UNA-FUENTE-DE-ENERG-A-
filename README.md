@@ -5,6 +5,7 @@
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
 
+[GIF DE EXPERIMENTO CON TURBINA REALIZADA POR EL EQUIPO 2](https://drive.google.com/file/d/1pX9JSTZx6VrrKfKycsjL48SUzSkH5OEH/view?usp=sharing)
                             
 
 ## ENERGÍAS ALTERNATIVAS
