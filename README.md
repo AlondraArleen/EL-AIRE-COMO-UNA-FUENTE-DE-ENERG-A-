@@ -53,7 +53,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
 ![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
 
-
+***
 ## ENERGÍA EÓLICA
 
 El tema energético es fundamental debido a la gran demanda y contaminación causada por su producción y consumo, siendo la energía eólica una solución sustentable.
@@ -74,11 +74,13 @@ Lo mismo sucede con el viento. Por más aerogeneradores que extrajeran su fuerza
 La respuesta está soplando en el viento
 En términos generales no se requieren grandes velocidades de viento para producir energía, más bien al contrario, cuando el viento es demasiado intenso se hace necesario detener los equipos para evitar deterioro. En la mayoría de los casos, un equipo comienza a generar energía con una velocidad del viento de 4 metros por segundo (m/s), equivalente a unos 15 km/h. Entrega su potencia máxima cuando la velocidad es del orden de los 12 a 15m/s (40 a 55 km/h) y es necesario sacarla de servicio cuando alcanza 25m/s (90km/h).
 
+***
 ## COMBUSTIBLES FÓSILES
 Los principales emisores de CO2 son las fábricas, centrales eléctricas y vehículos que funcionan quemando combustibles fósiles.
 El cambio climático es real. Y mientras no disminuya el protagonismo de los combustibles fósiles en la matriz energética, los gases de invernadero que recalientan nuestro mundo aumentarán sus niveles.
 El principal gas de efecto invernadero es el dióxido de carbono (CO2), cuyo origen es fundamentalmente la quema de combustibles fósiles. Su actual concentración atmosférica es la mayor de los últimos 650.000 años y, según la NASA, sus niveles aumentaron un 35% desde 1750 mientras que las temperaturas se elevaron entre los 0,6 y 0,9°C en el último siglo. 
 
+***
 ## HISTORIA
 La utilización de la energía del viento es muy antigua. La historia se remonta al año 3500 antes de nuestra era, cuando los sumerios crearon las primeras embarcaciones de vela. Los egipcios construyeron barcos hace al menos cinco mil años para navegar por el Nilo, y más tarde por el Mediterráneo. Después, los griegos construyeron máquinas que funcionaban con el viento. 
 Algunos historiadores sugieren que hace más de 3 mil años la fuerza del viento se empleaba en Egipto, cerca de Alejandría, para la molienda de granos. Sin embargo, la información más fehaciente sobre la utilización de la energía eólica en la molienda apunta a Persia, en la frontera Afgana, en el año 640 de nuestra era. Otras fuentes históricas, fechadas unos cuantos años más tarde, muestran que los chinos también utilizaban la energía del viento en ruedas con paletas y eje vertical para irrigar o drenar sus campos de arroz.
@@ -106,6 +108,7 @@ La resistencia aerodinámica, la cual se basa en la fuerza de arrastre del vient
 La sustentación aerodinámica basada en la desviación del flujo por las paredes de los álabes, generando una fuerza perpendicular a la dirección del flujo libre. 
 Existen dos tipos principales de turbinas eólicas diferenciadas por la dirección del eje de rotación, las turbinas eólicas de eje horizontal (HAWT) y las turbinas eólicas de eje vertical (VAWT). Estas últimas han llamado la atención de los investigadores debido a sus ventajas con respecto a las HAWT, principalmente la Darrieus tipo H, ya que presenta grandes ventajas como la viabilidad para ser utilizadas en ambientes urbanos gracias a su capacidad de aprovechamiento de vientos bajos.
 
+***
 ## MÉXICO
 Actualmente, en México ya han iniciado las aplicaciones comerciales de la generación eoloeléctrica, particularmente en la modalidad de centrales eólicas interconectadas a red, como es el caso de la central eólica la Venta II, en el Istmo de Tehuantepec, Oaxaca.
 La obtención de electricidad por medio centrales eólicas es una alternativa para obtener energía eléctrica no contaminante, que evita daños ambientales tanto locales como transfronterizos y que al compararla con otras formas de producción de energía, tales como las centrales térmicas o las núcleo eléctricas, resulta la más cercana a la sustentabilidad. Las plantas eoloeléctricas no utilizan combustibles como el carbón, combustóleo o cualquier derivado del petróleo o gas natural. Tampoco emiten contaminantes al aire, ni provocan el efecto invernadero o consumen agua u otro tipo de recurso natural. 
