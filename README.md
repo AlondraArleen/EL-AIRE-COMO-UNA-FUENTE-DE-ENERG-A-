@@ -3,16 +3,7 @@
 [VIDEO DE NUESTRO PROYECTO ](https://www.youtube.com/watch?v=-RAH5rpp88c)
                                                                                                                           
                                                                                                                             
-## ENERGÍA EÓLICA
 
-El tema energético es fundamental debido a la gran demanda y contaminación causada por su producción y consumo, siendo la energía eólica una solución sustentable.
-Es la energía que se obtiene a través del viento.
-La energía eólica es consecuencia de la energía que irradia el Sol hacia la tierra: alrededor de 174 billones 423 mil millones de kilowatts/hora por día. Es decir, en una hora la tierra recibe 1.74×1017 watts de potencia, que equivalen aproximadamente en promedio a 680 watts por metro cuadrado en la región iluminada. Tan sólo 1 por ciento de dicha energía se transforma en energía eólica, y esto supone una energía alrededor de 50 a 100 veces superior a la que todas las plantas de la Tierra convierten en biomasa.
-
----
-![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc.jpg?raw=true)
-
-***
 
 ## ENERGIAS ALTERNATIVAS
 
@@ -30,11 +21,6 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
     
 ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc2.gif?raw=true)
  
-- **ENERGÍA EOLICA**  
-
-    Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
-
-![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
 
 - **ENERGÍA GEOTÉRMICA**  
 
@@ -60,6 +46,24 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
     ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
+
+- **ENERGÍA EOLICA**  
+
+    Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
+
+![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
+
+
+## ENERGÍA EÓLICA
+
+El tema energético es fundamental debido a la gran demanda y contaminación causada por su producción y consumo, siendo la energía eólica una solución sustentable.
+Es la energía que se obtiene a través del viento.
+La energía eólica es consecuencia de la energía que irradia el Sol hacia la tierra: alrededor de 174 billones 423 mil millones de kilowatts/hora por día. Es decir, en una hora la tierra recibe 1.74×1017 watts de potencia, que equivalen aproximadamente en promedio a 680 watts por metro cuadrado en la región iluminada. Tan sólo 1 por ciento de dicha energía se transforma en energía eólica, y esto supone una energía alrededor de 50 a 100 veces superior a la que todas las plantas de la Tierra convierten en biomasa.
+
+---
+![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc.jpg?raw=true)
+
+***
 
 ## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EOLICA)
 
