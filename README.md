@@ -48,7 +48,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     La energía hidráulica, también conocida como energía hidroeléctrica, es aquella energía alternativa que se obtiene del aprovechamiento de las energías cinéticas y potenciales de la corriente del agua, saltos de agua o mareas, ya sea mediante molinos o presas
     
-    ![](https://carlosmoreno55.neocities.org/aplicacionesweb/Proyecto19/img/hidraulica.gif)
+    ![](https://i.pinimg.com/originals/4f/a4/cb/4fa4cb2c0525d23604a415be11529958.gif)
 
 - **ENERGÍA MAREOMOTRIZ**
 
