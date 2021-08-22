@@ -68,7 +68,7 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
 
 ***
 
-## ¿POR QUÈ UTILIZAMOS ENERGIAS ALTERNATIVAS (EÓLICA)?
+## ¿POR QUÈ UTILIZAMOS ENERGÍAS ALTERNATIVAS (EÓLICA)?
 
    El aumento de la población ha generado un alza considerable en la demanda energética, es por ello que la generación de esta debe adaptarse a la demanda exigida, pero también se debe asegurar la sostenibilidad de su producción a largo plazo. Considerando que en la actualidad casi el 80% de la energía suministrada proviene de combustibles fósiles como el petróleo, carbón, gas natural, entre otros. Que el uso de ellos genera los gases de efecto invernadero causantes de la contaminación y por ende del cambio climático, es de vital importancia aumentar la eficiencia de las fuentes de energía renovables como la solar y la eólica que causan un mínimo impacto al medio ambiente, siendo la eólica una de las más importantes gracias al potencial tan grande que presenta.
    
