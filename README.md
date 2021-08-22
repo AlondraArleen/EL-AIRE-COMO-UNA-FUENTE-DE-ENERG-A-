@@ -128,7 +128,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 [**PRINCIPALES PARQUES EÓLICOS EN MÉXICO**](https://www.oaxaca.gob.mx/semaedeso/energia-eolica/)
 
-
+![](http://grieta.org.mx/wp-content/uploads/2016/03/05_eolica.jpg)
 
 
 
