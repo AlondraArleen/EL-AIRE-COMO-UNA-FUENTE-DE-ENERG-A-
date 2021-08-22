@@ -1,11 +1,13 @@
 ***
 ## INTRODUCCIÓN 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
-#### Por lo que hemos realizado nuestro proyecto en base a este conocimiento, en esta página hablaremos sobre energias alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eolica), su impacto y su implementacion en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
+#### Por lo que hemos realizado nuestro proyecto con base a este conocimiento, en esta página hablaremos sobre energías alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eólica), su impacto y su implementación en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
 
-[GIF DE EXPERIMENTO CON TURBINA REALIZADA POR EL EQUIPO 2](https://drive.google.com/file/d/1pX9JSTZx6VrrKfKycsjL48SUzSkH5OEH/view?usp=sharing)
+***
+
+***
                             
 
 ## ENERGÍAS ALTERNATIVAS
@@ -78,7 +80,7 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
    Lo mismo sucede con el viento por más aerogeneradores que extrajeran su fuerza y la convirtieran en electricidad nunca trastocarían el equilibrio térmico del planeta. 
    La respuesta está soplando en el viento: En términos generales no se requieren grandes velocidades de viento para producir energía, más bien al contrario, cuando el viento es demasiado intenso se hace necesario detener los equipos para evitar deterioro. En la mayoría de los casos, un equipo comienza a generar energía con una velocidad del viento de 4 metros por segundo (m/s), equivalente a unos 15 km/h. Entrega su potencia máxima cuando la velocidad es del orden de los 12 a 15m/s (40 a 55 km/h) y es necesario sacarla de servicio cuando alcanza 25m/s (90km/h).
 
-[VIDEO SOBRE EL IMPACTO  AMBIENTAL DE QUEMA DE COMBUSTIBLES FOSILES](https://www.youtube.com/watch?v=rRHdUaEjfZY)
+[VIDEO SOBRE EL IMPACTO  AMBIENTAL DE QUEMA DE COMBUSTIBLES FÓSILES](https://www.youtube.com/watch?v=rRHdUaEjfZY)
 
 ![](https://www.ecoembes.com/sites/default/files/imagenes_planeta_recicla/actividades-humanas-generan-gases.jpg)
 
