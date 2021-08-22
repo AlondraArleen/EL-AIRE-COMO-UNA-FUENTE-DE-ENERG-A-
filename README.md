@@ -135,15 +135,15 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 ***
 
-- **MARTÍNEZ JUÁREZ ALONDRA ARLEEN
+- **MARTÍNEZ JUÁREZ ALONDRA ARLEEN**
 
      - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/alo.jpg?raw=true)
 
-- **MARLEEN SANCHÉZ CARMONA
+- **MARLEEN SANCHÉZ CARMONA**
 
      - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/marlen%20(1).jpg?raw=true)
    
- - **ENRIQUE GALINDO GALINDO 
+ - **ENRIQUE GALINDO GALINDO**
  
       - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/WhatsApp%20Image%202021-08-21%20at%209.07.53%20PM.jpeg?raw=true)
 
