@@ -4,7 +4,8 @@
 #### Por lo que hemos realizado nuestro proyecto en base a este conocimiento, en esta página hablaremos sobre energias alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eolica), su impacto y su implementacion en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
-                                                                                                                          
+                            
+ ![](https://lh3.googleusercontent.com/CmKD8s7LMz7cHlBP5jzpvb6zIDBeSJizRvpcJrzWXXHR--9yuUiaWNHwyTDWXjViYWcISaSPMNtgl_c=w1366-h625)
                                                                                                                           
 ## ENERGIAS ALTERNATIVAS
 
@@ -121,7 +122,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 
 
-
+-
 
 
 
