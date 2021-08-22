@@ -35,21 +35,26 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     La energía geotérmica es una energía renovable que aprovecha el fenómeno de que la Tierra irradia calor desde su centro
 
- ![](https://image.flaticon.com/icons/png/128/1847/1847405.png)
+ ![](https://us.123rf.com/450wm/alejomiranda/alejomiranda1701/alejomiranda170100096/69923216-gr%C3%A1fico-ilustra-el-funcionamiento-de-una-planta-de-energ%C3%ADa-geot%C3%A9rmica-energ%C3%ADa-renovable.jpg?ver=6)
 
 
 - **ENERGÍA DE LA BIOMASA**
 
     También conocida como bioenergía, es la energía obtenida de la materia orgánica constitutiva de los seres vivos, sus excretas y sus restos no vivos. La biomasa se caracteriza por tener un bajo contenido de carbono, un elevado contenido de oxígeno y compuestos volátiles
+    
+    ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwi9kFU60j_LBUfZNb73HO_F9Cn8xH4fE-hw&usqp=CAU)
 
 - **ENERGÍA HIDRÁULICA**
 
     La energía hidráulica, también conocida como energía hidroeléctrica, es aquella energía alternativa que se obtiene del aprovechamiento de las energías cinéticas y potenciales de la corriente del agua, saltos de agua o mareas, ya sea mediante molinos o presas
+    
+    ![](https://carlosmoreno55.neocities.org/aplicacionesweb/Proyecto19/img/hidraulica.gif)
 
 - **ENERGÍA MAREOMOTRIZ**
 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
+    ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
 
 ## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EOLICA)
 
