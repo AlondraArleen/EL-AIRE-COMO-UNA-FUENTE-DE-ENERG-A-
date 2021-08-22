@@ -166,7 +166,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 
 
-
+![](https://lh3.googleusercontent.com/st2Y-2teBAVv4blLupLY5f-MLio10-UD56jT0U0_xJbQVYsZcpTumwHJUWdTVGBclaR8stDwRVlWZFg=w1366-h625)
 
 
 
