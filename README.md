@@ -77,6 +77,10 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
    Lo mismo sucede con el viento por más aerogeneradores que extrajeran su fuerza y la convirtieran en electricidad nunca trastocarían el equilibrio térmico del planeta. 
    La respuesta está soplando en el viento: En términos generales no se requieren grandes velocidades de viento para producir energía, más bien al contrario, cuando el viento es demasiado intenso se hace necesario detener los equipos para evitar deterioro. En la mayoría de los casos, un equipo comienza a generar energía con una velocidad del viento de 4 metros por segundo (m/s), equivalente a unos 15 km/h. Entrega su potencia máxima cuando la velocidad es del orden de los 12 a 15m/s (40 a 55 km/h) y es necesario sacarla de servicio cuando alcanza 25m/s (90km/h).
 
+[VIDEO SOBRE EL IMPACTO  AMBIENTAL DE QUEMA DE COMBUSTIBLES FOSILES](https://www.youtube.com/watch?v=rRHdUaEjfZY)
+
+![](https://www.ecoembes.com/sites/default/files/imagenes_planeta_recicla/actividades-humanas-generan-gases.jpg)
+
 ***
 ## COMBUSTIBLES FÓSILES
 Los principales emisores de CO2 son las fábricas, centrales eléctricas y vehículos que funcionan quemando combustibles fósiles.
@@ -88,10 +92,13 @@ El principal gas de efecto invernadero es el dióxido de carbono (CO2), cuyo ori
 ***
 ## HISTORIA
 La utilización de la energía del viento es muy antigua. La historia se remonta al año 3500 antes de nuestra era, cuando los sumerios crearon las primeras embarcaciones de vela. Los egipcios construyeron barcos hace al menos cinco mil años para navegar por el Nilo, y más tarde por el Mediterráneo. Después, los griegos construyeron máquinas que funcionaban con el viento. 
+
 Algunos historiadores sugieren que hace más de 3 mil años la fuerza del viento se empleaba en Egipto, cerca de Alejandría, para la molienda de granos. Sin embargo, la información más fehaciente sobre la utilización de la energía eólica en la molienda apunta a Persia, en la frontera Afgana, en el año 640 de nuestra era. Otras fuentes históricas, fechadas unos cuantos años más tarde, muestran que los chinos también utilizaban la energía del viento en ruedas con paletas y eje vertical para irrigar o drenar sus campos de arroz.
+
 Los historiadores muestran que tales molinos se empleaban ya en el año 1180 en Normandía. En Europa se desarrollaron básicamente tres tipos de molinos: el de pedestal, en el siglo XII; el molino hueco (sin maquinaria de molienda) para bombeo de agua del siglo XV; y el molino de torre. Este último se dejó de usar en el siglo XIX.
 En 1899, el inventor danés Poul la Cour realizó experimentos con molinos de viento típicos de Dinamarca para generar electricidad.
 Alrededor de 1900, los molinos de viento se utilizaron típicamente para molienda y bombeo de agua. Por primera vez en dicha fecha, el inventor danés Poul la Cour realizó experimentos con molinos de viento típicos de Dinamarca para generar electricidad. Así, la electrificación rural de Dinamarca creó el primer mercado de generación eléctrica a partir del viento.
+
 En la década de los ochenta nace la industria eoloeléctrica moderna, cuando las primeras turbinas eólicas o aerogeneradores comerciales se instalaron en Palm Springs, California.
 Si bien los sistemas de generación eoloeléctrica presentaron un desarrollo importante durante las primeras décadas del siglo XX, la primera y segunda guerras mundiales dificultaron su crecimiento, y fue hasta la década de los setenta, con la primera crisis mundial del petrolero, que se reactivó su expansión. Actualmente, entre las fuentes renovables de energía, la eólica es la de mayor crecimiento.
 
@@ -114,6 +121,9 @@ La extracción de la energía eólica se rige por dos principios fundamentales:
 La resistencia aerodinámica, la cual se basa en la fuerza de arrastre del viento producida sobre la superficie en la que incide el viento. Esta se da en dirección del flujo libre. 
 La sustentación aerodinámica basada en la desviación del flujo por las paredes de los álabes, generando una fuerza perpendicular a la dirección del flujo libre. 
 Existen dos tipos principales de turbinas eólicas diferenciadas por la dirección del eje de rotación, las turbinas eólicas de eje horizontal (HAWT) y las turbinas eólicas de eje vertical (VAWT). Estas últimas han llamado la atención de los investigadores debido a sus ventajas con respecto a las HAWT, principalmente la Darrieus tipo H, ya que presenta grandes ventajas como la viabilidad para ser utilizadas en ambientes urbanos gracias a su capacidad de aprovechamiento de vientos bajos.
+
+![](https://ciudadanocerodotblog.files.wordpress.com/2017/12/hawt_and_vawts_in_operation_medium.gif?w=349)
+
 
 ***
 ## ENERGÍA EÓLICA EN MÉXICO
