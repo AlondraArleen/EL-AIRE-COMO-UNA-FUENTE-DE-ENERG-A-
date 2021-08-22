@@ -88,14 +88,18 @@ Alrededor de 1900, los molinos de viento se utilizaron típicamente para moliend
 En la década de los ochenta nace la industria eoloeléctrica moderna, cuando las primeras turbinas eólicas o aerogeneradores comerciales se instalaron en Palm Springs, California.
 Si bien los sistemas de generación eoloeléctrica presentaron un desarrollo importante durante las primeras décadas del siglo XX, la primera y segunda guerras mundiales dificultaron su crecimiento, y fue hasta la década de los setenta, con la primera crisis mundial del petrolero, que se reactivó su expansión. Actualmente, entre las fuentes renovables de energía, la eólica es la de mayor crecimiento.
 
-![LÍNEA DEL TIEMPO](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc3.jpg?raw=true)
+!["LÍNEA DEL TIEMPO"](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc3.jpg?raw=true)
+
+***
 
 ## Del viento a la electricidad
 La transformación de la energía cinética del viento se realiza a través de aerogeneradores. En éstos, la energía eólica mueve una hélice y mediante un sistema mecánico se hace girar el rotor de un generador, normalmente un alternador, que produce energía eléctrica. La cantidad de energía transferida al rotor por el viento depende de la densidad del aire, del área de barrido del rotor y de la velocidad del viento. Si el suministro eléctrico va a ser puntual (una vivienda aislada, granjas, etc.), se utilizan equipos de baja potencia, por lo común, de varias decenas de kW. Cuando la electricidad generada se va a volcar a la red de distribución se utilizan varios aerogeneradores, de potencia comúnmente inferior a un MW. Estos grupos de máquinas se denominan parques eólicos y pueden situarse tanto en tierra (onshore) como en el mar (offshore).
 La locación ideal
 Constancia y uniformidad del viento son dos características que determinan si el recurso eólico, en un lugar, es apto para ser aprovechado. La topografía, flora y las construcciones (entre otros obstáculos), pueden hacer variar la uniformidad del viento y su constancia, generando turbulencias y alteraciones constantes que impidan el emplazamiento de las turbinas. También es importante considerar la densidad del aire, ya que afecta la productividad de un aerogenerador. Con bajas temperaturas y mayor densidad, la incidencia del viento a una velocidad dada sobre las palas de un molino resulta más efectiva, que con igual velocidad pero menor densidad. 
 
+![](https://i.makeagif.com/media/10-08-2015/CnxliS.gif) 
 
+***
 ## TECNOLOGÍA EN LA ENERGÍA
 La extracción de la energía eólica se rige por dos principios fundamentales:
 La resistencia aerodinámica, la cual se basa en la fuerza de arrastre del viento producida sobre la superficie en la que incide el viento. Esta se da en dirección del flujo libre. 
