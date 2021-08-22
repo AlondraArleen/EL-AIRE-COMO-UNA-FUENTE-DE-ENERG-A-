@@ -7,7 +7,7 @@
 
                             
 
-## ENERGIAS ALTERNATIVAS
+## ENERGÍAS ALTERNATIVAS
 
 Las energías renovables son fuentes de energía limpias, inagotables y crecientemente competitivas. Se diferencian de los combustibles fósiles principalmente en su diversidad, abundancia y potencial de aprovechamiento en  cualquier parte del planeta, pero sobre todo en que no producen gases de efecto invernadero –causantes del cambio climático- ni emisiones contaminantes.
 De entre las distintas fuentes de energía, las renovables son aquéllas que se producen de forma continua. Todas las fuentes de energía renovables (excepto la mareomotriz y la geotérmica) provienen, en último término, del sol.
@@ -68,7 +68,7 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
 
 ***
 
-## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EÓLICA)
+## ¿POR QUÈ UTILIZAMOS ENERGIAS ALTERNATIVAS (EÓLICA)?
 
    El aumento de la población ha generado un alza considerable en la demanda energética, es por ello que la generación de esta debe adaptarse a la demanda exigida, pero también se debe asegurar la sostenibilidad de su producción a largo plazo. Considerando que en la actualidad casi el 80% de la energía suministrada proviene de combustibles fósiles como el petróleo, carbón, gas natural, entre otros. Que el uso de ellos genera los gases de efecto invernadero causantes de la contaminación y por ende del cambio climático, es de vital importancia aumentar la eficiencia de las fuentes de energía renovables como la solar y la eólica que causan un mínimo impacto al medio ambiente, siendo la eólica una de las más importantes gracias al potencial tan grande que presenta.
    
@@ -111,7 +111,7 @@ La transformación de la energía cinética del viento se realiza a través de a
 La locación ideal
 Constancia y uniformidad del viento son dos características que determinan si el recurso eólico, en un lugar, es apto para ser aprovechado. La topografía, flora y las construcciones (entre otros obstáculos), pueden hacer variar la uniformidad del viento y su constancia, generando turbulencias y alteraciones constantes que impidan el emplazamiento de las turbinas. También es importante considerar la densidad del aire, ya que afecta la productividad de un aerogenerador. Con bajas temperaturas y mayor densidad, la incidencia del viento a una velocidad dada sobre las palas de un molino resulta más efectiva, que con igual velocidad pero menor densidad. 
 
-[**VIDEO "COMO FUNCIONA LA ENERGÍA EOLICA"**](https://www.youtube.com/watch?v=rQ-3hSdJI-0)
+[**VIDEO "COMO FUNCIONA LA ENERGÍA EÓLICA"**](https://www.youtube.com/watch?v=rQ-3hSdJI-0)
 
 ![](https://i.makeagif.com/media/10-08-2015/CnxliS.gif) 
 
@@ -150,7 +150,7 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
      - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/alo.jpg?raw=true)
 
-- **MARLEEN SANCHÉZ CARMONA**
+- **MARLEN SÁNCHEZ CARMONA**
 
      - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/marlen%20(1).jpg?raw=true)
    
