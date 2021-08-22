@@ -1,7 +1,7 @@
 ***
 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
- #### Por lo que hemos realizado nuestro proyecto en base a este conocimiento, en esta página hablaremos sobre energias alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eolica), su impacto y su implementacion en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
+#### Por lo que hemos realizado nuestro proyecto en base a este conocimiento, en esta página hablaremos sobre energias alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eolica), su impacto y su implementacion en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
                                                                                                                           
@@ -48,7 +48,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
 
-- **ENERGÍA EOLICA**  
+- **ENERGÍA EÓLICA**  
 
     Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
 
@@ -66,14 +66,13 @@ La energía eólica es consecuencia de la energía que irradia el Sol hacia la t
 
 ***
 
-## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EOLICA)
+## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EÓLICA)
 
-El aumento de la población ha generado un alza considerable en la demanda energética, es por ello que la generación de esta debe adaptarse a la demanda exigida, pero también se debe asegurar la sostenibilidad de su producción a largo plazo. Considerando que en la actualidad casi el 80% de la energía suministrada proviene de combustibles fósiles como el petróleo, carbón, gas natural, entre otros. Que el uso de ellos genera los gases de efecto invernadero causantes de la contaminación y por ende del cambio climático, es de vital importancia aumentar la eficiencia de las fuentes de energía renovables como la solar y la eólica que causan un mínimo impacto al medio ambiente, siendo la eólica una de las más importantes gracias al potencial tan grande que presenta.
-La quema de combustibles fósiles para obtener electricidad provoca impactos ambientales y produce gases de invernadero (como el dióxido de carbono) que elevan la temperatura de la Tierra. Esto provoca cambios en los patrones climáticos que derivan en un incremento de las sequías, tornados e inundaciones. 
+  El aumento de la población ha generado un alza considerable en la demanda energética, es por ello que la generación de esta debe adaptarse a la demanda exigida, pero también se debe asegurar la sostenibilidad de su producción a largo plazo. Considerando que en la actualidad casi el 80% de la energía suministrada proviene de combustibles fósiles como el petróleo, carbón, gas natural, entre otros. Que el uso de ellos genera los gases de efecto invernadero causantes de la contaminación y por ende del cambio climático, es de vital importancia aumentar la eficiencia de las fuentes de energía renovables como la solar y la eólica que causan un mínimo impacto al medio ambiente, siendo la eólica una de las más importantes gracias al potencial tan grande que presenta.
+  La quema de combustibles fósiles para obtener electricidad provoca impactos ambientales y produce gases de invernadero (como el dióxido de carbono) que elevan la temperatura de la Tierra. Esto provoca cambios en los patrones climáticos que derivan en un incremento de las sequías, tornados e inundaciones. 
 Sin llegar a decir que esos impactos no existen en las fuentes renovables, sí es cierto, en cambio, que son infinitamente menores y siempre reversibles. Es por esto que reciben el calificativo de fuentes de energía limpias. 
-Lo mismo sucede con el viento. Por más aerogeneradores que extrajeran su fuerza y la convirtieran en electricidad nunca trastocarían el equilibrio térmico del planeta. 
-La respuesta está soplando en el viento
-En términos generales no se requieren grandes velocidades de viento para producir energía, más bien al contrario, cuando el viento es demasiado intenso se hace necesario detener los equipos para evitar deterioro. En la mayoría de los casos, un equipo comienza a generar energía con una velocidad del viento de 4 metros por segundo (m/s), equivalente a unos 15 km/h. Entrega su potencia máxima cuando la velocidad es del orden de los 12 a 15m/s (40 a 55 km/h) y es necesario sacarla de servicio cuando alcanza 25m/s (90km/h).
+  Lo mismo sucede con el viento por más aerogeneradores que extrajeran su fuerza y la convirtieran en electricidad nunca trastocarían el equilibrio térmico del planeta. 
+  La respuesta está soplando en el viento: En términos generales no se requieren grandes velocidades de viento para producir energía, más bien al contrario, cuando el viento es demasiado intenso se hace necesario detener los equipos para evitar deterioro. En la mayoría de los casos, un equipo comienza a generar energía con una velocidad del viento de 4 metros por segundo (m/s), equivalente a unos 15 km/h. Entrega su potencia máxima cuando la velocidad es del orden de los 12 a 15m/s (40 a 55 km/h) y es necesario sacarla de servicio cuando alcanza 25m/s (90km/h).
 
 ***
 ## COMBUSTIBLES FÓSILES
