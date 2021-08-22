@@ -66,7 +66,7 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 
     También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
-    ![](https://lh3.googleusercontent.com/proxy/H9LIJ5XjQ7kOIKYcXvISrNkyC6nYLnnZquCCutaQC1r_X2Hu2VUD88mJYvdqrKzScmK4Q_-NlFRC_t1CwhxXoNMRt9E6itOogsFu0SwXEUcVNPaq06ls3lf9c09fWP-iaEEExT7-QCBRQjrC68I)
+    ![](https://lh3.googleusercontent.com/proxy/fwwr1uBM2byPCSHPECLVgt4hXcgbAaMGyhvkbUgogrfc988eR-cAypoUGkIPgmxVOU3LiZ3ij1c_dKdSr1h1IZ9q973LmJhbLB8bPjL8NrVnbDnET6s0SOtgXeowzbGRzvcfYBYr-qSIcG7hR8U)
 
 - **ENERGÍA EÓLICA**  
 
