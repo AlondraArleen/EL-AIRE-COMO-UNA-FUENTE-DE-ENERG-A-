@@ -167,6 +167,8 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 ***
 
+### QUIPO 2 CLUB 15
+
 - **MARTÍNEZ JUÁREZ ALONDRA ARLEEN**
 
      - ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/alo.jpg?raw=true)
