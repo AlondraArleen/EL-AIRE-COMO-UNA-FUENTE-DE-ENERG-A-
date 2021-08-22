@@ -82,6 +82,8 @@ Los principales emisores de CO2 son las fábricas, centrales eléctricas y vehí
 El cambio climático es real. Y mientras no disminuya el protagonismo de los combustibles fósiles en la matriz energética, los gases de invernadero que recalientan nuestro mundo aumentarán sus niveles.
 El principal gas de efecto invernadero es el dióxido de carbono (CO2), cuyo origen es fundamentalmente la quema de combustibles fósiles. Su actual concentración atmosférica es la mayor de los últimos 650.000 años y, según la NASA, sus niveles aumentaron un 35% desde 1750 mientras que las temperaturas se elevaron entre los 0,6 y 0,9°C en el último siglo. 
 
+![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/WhatsApp%20Image%202021-08-21%20at%2010.06.13%20PM.jpeg?raw=true)
+
 ***
 ## HISTORIA
 La utilización de la energía del viento es muy antigua. La historia se remonta al año 3500 antes de nuestra era, cuando los sumerios crearon las primeras embarcaciones de vela. Los egipcios construyeron barcos hace al menos cinco mil años para navegar por el Nilo, y más tarde por el Mediterráneo. Después, los griegos construyeron máquinas que funcionaban con el viento. 
