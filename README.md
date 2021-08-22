@@ -144,6 +144,19 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 ***
 
+## REFERENCIAS 
+- EPEC. (2008). Las energías renovables. recuperado de: https://web.epec.com.ar/docs/educativo/institucional/renovables.pdf
+
+- EPEC. (2008). La energía eólica. recuperado de:https://web.epec.com.ar/docs/educativo/institucional/eolica.pdf
+
+- Martinez, O. R., García, J. C., Urquiza, B. G., Basurto, M., Castro, G. L. L., y Dávalos, O. (2017). Efecto geométrico de los perfiles aerodinámicos en una micro turbina eólica Darrieus tipo H. SOMIM, 152–158.http://somim.org.mx/memorias/memorias2017/articulos/A4_52.pdf
+
+ - Jaramillo, A. O., y Borjas, A. M. (2010). Energía del viento. Ciencia, 18–29. https://www.revistaciencia.amc.edu.mx/images/revista/61_2/PDF/EnergiaViento.pdf
+ 
+- Estrada Gasca, C. A. (2013). Transición energética, energías renovables y energía solar de potencia. Revista Mexicana de Física, 59(2),75-84. Disponible en:   https://www.redalyc.org/articulo.oa?id=57030971010
+- González, M. E., Beltrán, L. F., Troyo, E., y Ortega, A. (2006). WIND ENERGY POTENTIAL FOR ELECTRICITY GENERATION IN RURAL ZONES OF MEXICO. Interciencia, 31(4), 240-245., disponible en: http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-18442006000400002&lng=es&tlng=en.
+
+
 ***
 
 - **MARTÍNEZ JUÁREZ ALONDRA ARLEEN**
