@@ -5,6 +5,11 @@
 
 [**VIDEO DE NUESTRO PROYECTO**](https://www.youtube.com/watch?v=-RAH5rpp88c)
 
+**GIF DE EXPERIMENTO CON TURBINA EÓLICA DEL EQUIPO 2**
+
+![](https://github.com/AlondraArleen/EL-VIENTO-COMO-UNA-FUENTE-DE-ENERGIA/blob/main/HOLS.gif?raw=true)
+
+
 ***
 
 ***
