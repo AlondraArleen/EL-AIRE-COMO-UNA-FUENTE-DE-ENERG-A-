@@ -113,11 +113,19 @@ La sustentación aerodinámica basada en la desviación del flujo por las parede
 Existen dos tipos principales de turbinas eólicas diferenciadas por la dirección del eje de rotación, las turbinas eólicas de eje horizontal (HAWT) y las turbinas eólicas de eje vertical (VAWT). Estas últimas han llamado la atención de los investigadores debido a sus ventajas con respecto a las HAWT, principalmente la Darrieus tipo H, ya que presenta grandes ventajas como la viabilidad para ser utilizadas en ambientes urbanos gracias a su capacidad de aprovechamiento de vientos bajos.
 
 ***
-## MÉXICO
+## ENERGÍA EÓLICA EN MÉXICO
+
 Actualmente, en México ya han iniciado las aplicaciones comerciales de la generación eoloeléctrica, particularmente en la modalidad de centrales eólicas interconectadas a red, como es el caso de la central eólica la Venta II, en el Istmo de Tehuantepec, Oaxaca.
+
 La obtención de electricidad por medio centrales eólicas es una alternativa para obtener energía eléctrica no contaminante, que evita daños ambientales tanto locales como transfronterizos y que al compararla con otras formas de producción de energía, tales como las centrales térmicas o las núcleo eléctricas, resulta la más cercana a la sustentabilidad. Las plantas eoloeléctricas no utilizan combustibles como el carbón, combustóleo o cualquier derivado del petróleo o gas natural. Tampoco emiten contaminantes al aire, ni provocan el efecto invernadero o consumen agua u otro tipo de recurso natural. 
+
 La generación de energía eléctrica en México por medios eólicos representa actualmente alrededor del 2% de la producción total, lo cual parecería una producción incipiente, y quizás un área estéril para la inversión. Sin embargo, acorde con el potencial eólico estimado para México y los avances tecnológicos e investigaciones en energía renovable realizadas por la Comisión Federal de Electricidad (CFE) y el Instituto de Investigaciones Eléctricas (IIE) el recurso tiene un potencial de generación entre 3000 y 5000MW.
+
 Esta potencialidad representa alrededor del 14% de la capacidad total de generación eléctrica instalada actualmente en todo México. Las zonas con el mayor potencial eólico se ubican en la región del Istmo de Tehuantepec, en Oaxaca, en la parte correspondiente a la costa del Pacífico, así como en sitios en los estados de Baja California Sur, Coahuila, Hidalgo, Quintana Roo y Zacatecas.
+
+[**PRINCIPALES PARQUES EÓLICOS EN MÉXICO**](https://www.oaxaca.gob.mx/semaedeso/energia-eolica/)
+
+
 
 
 
