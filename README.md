@@ -1,4 +1,6 @@
 ***
+![](https://lh3.googleusercontent.com/st2Y-2teBAVv4blLupLY5f-MLio10-UD56jT0U0_xJbQVYsZcpTumwHJUWdTVGBclaR8stDwRVlWZFg=w1366-h625)
+***
 ## INTRODUCCIÓN 
 #### En los últimos años el calentamiento global y la contaminación ambiental han ido aumentando a un ritmo acelerado. En esta edición 2020 de Clubes de Ciencia México aprendimos mucho acerca de los Objetivos de Desarrollo Sostenible y como podemos cumplirlos a través de la ciencia. En particular, en nuestro club Harnessing the Power of Wind aprendimos que la energía eólica puede transformarse a energía eléctrica de una manera muy eficiente, a bajo costo y con un mínimo impacto ambiental, en contraste con la quema de combustibles fósiles que presentan una menor eficiencia energética y producen gases de efecto invernadero y mucha contaminación.
 #### Por lo que hemos realizado nuestro proyecto en base a este conocimiento, en esta página hablaremos sobre energias alternativas para reducir la contaminación lo máximo posible, enfocandonos principalmente en el aire como una fuente alternativa de energía (energía eolica), su impacto y su implementacion en la actualidad en nuestro país, para empezar, hemos hecho un video sobre este extenso tema.
@@ -141,7 +143,9 @@ Esta potencialidad representa alrededor del 14% de la capacidad total de generac
 
 ![](http://grieta.org.mx/wp-content/uploads/2016/03/05_eolica.jpg)
 
+***
 
+![](https://lh3.googleusercontent.com/st2Y-2teBAVv4blLupLY5f-MLio10-UD56jT0U0_xJbQVYsZcpTumwHJUWdTVGBclaR8stDwRVlWZFg=w1366-h625)
 
 
 ***
