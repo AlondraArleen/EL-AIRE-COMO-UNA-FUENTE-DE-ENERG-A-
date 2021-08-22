@@ -21,7 +21,7 @@ Los 17 ODS están integrados, ya que reconocen que las intervenciones en un áre
 
 Siguiendo la promesa de no dejar a nadie atrás, los países se han comprometido a acelerar el progreso para aquellos más atrasados. Es por esto que los ODS han sido diseñados para traer al mundo varios “ceros” que cambien la vida, lo que incluye pobreza cero, hambre cero, SIDA cero y discriminación cero contra las mujeres y niñas.
 
-
+***
 ## ENERGÍAS ALTERNATIVAS
 
 Las energías renovables son fuentes de energía limpias, inagotables y crecientemente competitivas. Se diferencian de los combustibles fósiles principalmente en su diversidad, abundancia y potencial de aprovechamiento en  cualquier parte del planeta, pero sobre todo en que no producen gases de efecto invernadero –causantes del cambio climático- ni emisiones contaminantes.
