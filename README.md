@@ -26,23 +26,29 @@ Estas fuentes son inagotables a escala humana, aunque en el caso de la biomasa, 
 ![](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc2.gif?raw=true)
  
 - **ENERGÍA EOLICA**  
-Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
+
+    Por siglos, el viento ha sido capturado por velas y aspas para transporte y trabajos mecánicos. Los modernos aerogeneradores permiten obtener electricidad de manera  limpia y eficiente. Estas máquinas pueden verter grandes cantidades de energía a la red o satisfacer pequeñas demandas.
 
 ![](https://media3.giphy.com/media/WP3fsm5mrQnenJba7k/giphy.gif?cid=ecf05e47iuwibz38voirz5khaogpwpsvrcwtfj64k7xcq40u&rid=giphy.gif&ct=g)
 
-- Energía geotérmica
-La energía geotérmica es una energía renovable que aprovecha el fenómeno de que la Tierra irradia calor desde su centro
+- **ENERGÍA GEOTÉRMICA**  
+
+    La energía geotérmica es una energía renovable que aprovecha el fenómeno de que la Tierra irradia calor desde su centro
+
+ ![](https://image.flaticon.com/icons/png/128/1847/1847405.png)
 
 
-- Energía de la biomasa
-También conocida como bioenergía, es la energía obtenida de la materia orgánica constitutiva de los seres vivos, sus excretas y sus restos no vivos. La biomasa se caracteriza por tener un bajo contenido de carbono, un elevado contenido de oxígeno y compuestos volátiles
+- **ENERGÍA DE LA BIOMASA**
 
-- Energía hidráulica
-La energía hidráulica, también conocida como energía hidroeléctrica, es aquella energía alternativa que se obtiene del aprovechamiento de las energías cinéticas y potenciales de la corriente del agua, saltos de agua o mareas, ya sea mediante molinos o presas
+    También conocida como bioenergía, es la energía obtenida de la materia orgánica constitutiva de los seres vivos, sus excretas y sus restos no vivos. La biomasa se caracteriza por tener un bajo contenido de carbono, un elevado contenido de oxígeno y compuestos volátiles
 
-- **mareomotriz**
+- **ENERGÍA HIDRÁULICA**
 
-también llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
+    La energía hidráulica, también conocida como energía hidroeléctrica, es aquella energía alternativa que se obtiene del aprovechamiento de las energías cinéticas y potenciales de la corriente del agua, saltos de agua o mareas, ya sea mediante molinos o presas
+
+- **ENERGÍA MAREOMOTRIZ**
+
+    También llamada energía oceánica o marina, es aquella que se consigue con el movimiento de las mareas. La energía que genera la marea al subir y bajar se aprovecha con unas turbinas que al activarse mueven el conjunto mecánico del alternador, produciendo así energía eléctrica
 
 
 ## PORQUE UTILIZAMOS ENERGIAS ALTERNATIVAS (EOLICA)
