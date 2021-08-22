@@ -88,6 +88,8 @@ Alrededor de 1900, los molinos de viento se utilizaron típicamente para moliend
 En la década de los ochenta nace la industria eoloeléctrica moderna, cuando las primeras turbinas eólicas o aerogeneradores comerciales se instalaron en Palm Springs, California.
 Si bien los sistemas de generación eoloeléctrica presentaron un desarrollo importante durante las primeras décadas del siglo XX, la primera y segunda guerras mundiales dificultaron su crecimiento, y fue hasta la década de los setenta, con la primera crisis mundial del petrolero, que se reactivó su expansión. Actualmente, entre las fuentes renovables de energía, la eólica es la de mayor crecimiento.
 
+![LÍNEA DEL TIEMPO](https://github.com/AlondraArleen/EL-AIRE-COMO-UNA-FUENTE-DE-ENERG-A-/blob/main/abc3.jpg?raw=true)
+
 ## Del viento a la electricidad
 La transformación de la energía cinética del viento se realiza a través de aerogeneradores. En éstos, la energía eólica mueve una hélice y mediante un sistema mecánico se hace girar el rotor de un generador, normalmente un alternador, que produce energía eléctrica. La cantidad de energía transferida al rotor por el viento depende de la densidad del aire, del área de barrido del rotor y de la velocidad del viento. Si el suministro eléctrico va a ser puntual (una vivienda aislada, granjas, etc.), se utilizan equipos de baja potencia, por lo común, de varias decenas de kW. Cuando la electricidad generada se va a volcar a la red de distribución se utilizan varios aerogeneradores, de potencia comúnmente inferior a un MW. Estos grupos de máquinas se denominan parques eólicos y pueden situarse tanto en tierra (onshore) como en el mar (offshore).
 La locación ideal
