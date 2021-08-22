@@ -136,7 +136,7 @@ La generación de energía eléctrica en México por medios eólicos representa 
 
 Esta potencialidad representa alrededor del 14% de la capacidad total de generación eléctrica instalada actualmente en todo México. Las zonas con el mayor potencial eólico se ubican en la región del Istmo de Tehuantepec, en Oaxaca, en la parte correspondiente a la costa del Pacífico, así como en sitios en los estados de Baja California Sur, Coahuila, Hidalgo, Quintana Roo y Zacatecas.
 
-[**PRINCIPALES PARQUES EÓLICOS EN MÉXICO**](https://www.oaxaca.gob.mx/semaedeso/energia-eolica/)
+[**ENLACE A PRINCIPALES PARQUES EÓLICOS EN MÉXICO**](https://www.oaxaca.gob.mx/semaedeso/energia-eolica/)
 
 ![](http://grieta.org.mx/wp-content/uploads/2016/03/05_eolica.jpg)
 
